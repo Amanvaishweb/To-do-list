@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(#020024,#f47f7f,#00d4ff);
+    
+
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div{
+height: 400px;
+margin: 80px auto;
+width: 230px;
+
+    
+   
+    
+    background:linear-gradient(#eeaeca,#eb1717);
+}
+
+
+li{
+    font-size: 20px;
+    list-style-type: square;
+   
+
+    
+}
+button{
+    background-color: rgb(255, 149, 166);
+    margin-left: 3px;
+    height:38px
+    
+}
+input{
+    font-size: 14px;
+    height: 30px;
+    padding: 2px;
+    text-align: center;
+    margin-left: 3px;
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+}
